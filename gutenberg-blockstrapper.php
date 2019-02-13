@@ -8,7 +8,7 @@
  * Author: Ray Jaworski
  * Author URI: https://r--j.ca
  *
- * License:     GPLV3
+ * License:     GPLV2
  * @package gutenberg-blockstrapper
  */
 defined( 'ABSPATH' ) || exit;
